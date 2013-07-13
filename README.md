@@ -1,7 +1,11 @@
 The system has 3 subsustem:
+
  1) Distributed task queue system working with Redis key-value store.
+
  2) Redis system replications.
+
  3) Reliable connection for Redis key-value store.
+
 
 Distributed task queue system working with Redis key-value store.
 
